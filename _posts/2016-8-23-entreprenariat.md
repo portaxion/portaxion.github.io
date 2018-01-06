@@ -5,8 +5,11 @@ title: NOUVEAU LIEU D'ÉCHANGE
 description: Lorem etiam nullam
 onelink: false
 bullet1: Nouveau lieu d’échange
+link1: entrepreneuriat.html
 bullet2: Rendez-vous culinaire annuel
+link2: entrepreneuriat.html
 bullet3: Artisanat pour aînés(es)
+link3: entrepreneuriat.html
 responsebar: true
 sondage1: https://goo.gl/forms/AszVXISNBdjIPQH62
 formulaire1: https://goo.gl/forms/AszVXISNBdjIPQH62
