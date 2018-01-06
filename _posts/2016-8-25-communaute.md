@@ -4,11 +4,11 @@ title: LA COMMUNAUTÉ en action
 description: blank
 onelink: false
 bullet1: Stages
-link1: COMMUNAUTÉ-stages.html
+link1: communauté.html
 bullet2: Bourses d'artiste
-link2: COMMUNAUTÉ-bourses_artiste.html
+link2: communauté.html
 bullet3: Bourses d'étude
-link3: COMMUNAUTÉ-bourses_étude.html
+link3: communauté.html
 responsebar: false
 sondage1: https://goo.gl/forms/AszVXISNBdjIPQH62
 formulaire1: https://goo.gl/forms/AszVXISNBdjIPQH62
