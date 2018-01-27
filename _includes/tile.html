@@ -12,7 +12,7 @@
                 {% endif %}
                 <!-- Bullets -->
                 {% if post.bullet1 %}
-                  <p><a href="{{ post.link1 }}" class="button">{{ post.bullet1 }}</a></p>
+                  <h4><a href="{{ post.link1 }}" class="content">{{ post.bullet1 }}</a></h4>
                   <!-- Inner Bar -->
                   <div>
                     {% if post.sondage1 %}
@@ -27,7 +27,7 @@
                   </div>
                 {% endif %}
                 {% if post.bullet2 %}
-                  <p><a href="{{ post.link2 }}" class="button">{{ post.bullet2 }}</a></p>
+                  <h4><a href="{{ post.link2 }}" class="content">{{ post.bullet2 }}</a></h4>
                   <!-- Inner Bar -->
                   <div>
                     {% if post.sondage2 %}
@@ -42,7 +42,7 @@
                   </div>
                 {% endif %}
                 {% if post.bullet3 %}
-                  <p><a href="{{ post.link3 }}" class="button">{{ post.bullet3 }}</a></p>
+                  <h4><a href="{{ post.link3 }}" class="content">{{ post.bullet3 }}</a></h4>
                   <!-- Inner Bar -->
                   <div>
                     {% if post.sondage3 %}
@@ -57,7 +57,7 @@
                   </div>
                 {% endif %}
                 {% if post.bullet4 %}
-                  <p><a href="{{ post.link4 }}" class="button">{{ post.bullet4 }}</a></p>
+                  <h4><a href="{{ post.link4 }}" class="content">{{ post.bullet4 }}</a></h4>
                   <!-- Inner Bar -->
                   <div>
                     {% if post.sondage4 %}
@@ -74,14 +74,14 @@
                 <!-- Sondage / Formulaire Bar -->
                 {% if post.responsebar %}
                 <br />
-                  <h6>
+                  <!-- <h6> -->
                     {% if post.sondage %}
-                      <a href="{{ post.sondage }}" class="button">SONDAGE</a>
+                      <a href="{{ post.sondage }}" class="content">SONDAGE</a>
                     {% endif %}
                     {% if post.formulaire %}
-                      <a href="{{ post.formulaire }}" class="button">FORMULAIRE</a>
+                      <a href="{{ post.formulaire }}" class="content">FORMULAIRE</a>
                     {% endif %}
-                  </h6>
+                  <!-- </h6> -->
                 {% endif %}
         </header>
 </article>

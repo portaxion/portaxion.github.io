@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LA COMMUNAUTÉ en action
+title: LA COMMUNAUTÉ EN ACTION
 description: blank
 onelink: true
 bullet1: Stages
