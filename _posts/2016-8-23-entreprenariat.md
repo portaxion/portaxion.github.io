@@ -1,7 +1,7 @@
 ---
 layout: post
 subtitle:
-title: L'ENTREPRENARIAT en action
+title: L'ENTREPRENARIAT EN ACTION
 description: Lorem etiam nullam
 onelink: true
 bullet1: Nouveau lieu d’échange
