@@ -4,8 +4,8 @@
         </span>
         <header class="major">
                 {% if post.onelink %}
-                  <h5><a href="{{ post.url  | relative_url }}" class="link">{{ post.title }}</a></h5>
-                  <h4><a href="{{ post.url  | relative_url }}" class="link">{{ post.subtitle }}</a></h4>
+                  <h4><a href="{{ post.url  | relative_url }}" class="link">{{ post.title }}</a></h4>
+                  <!-- <h5><a href="{{ post.url  | relative_url }}" class="link">{{ post.subtitle }}</a></h5> -->
                 {% else %}
                   <h5>{{ post.title }}</h5>
                   <h4>{{ post.subtitle }}</h4>
