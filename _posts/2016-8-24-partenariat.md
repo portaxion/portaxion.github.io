@@ -1,7 +1,7 @@
 ---
 layout: post
 subtitle: APPEL DE PARTENARIAT EN
-title: Construction écologique
+title: CONSTRUCTION ÉCOLOGIQUE
 description: Feugiat amet tempus
 onelink: true
 bullet1: Sur l'île de Hull
