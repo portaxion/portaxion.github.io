@@ -13,4 +13,5 @@ responsebar: true
 sondage: https://goo.gl/forms/AszVXISNBdjIPQH62
 formulaire: https://goo.gl/forms/AszVXISNBdjIPQH62
 image: assets/images/ImageCommunautéPink-compressor.jpg
+nav-menu: true
 ---

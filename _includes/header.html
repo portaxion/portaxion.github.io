@@ -17,14 +17,14 @@
 		        <li><a href="{{ "" | absolute_url }}/">{{ page.title }}</a></li>
 	    	{% endif %}
 		{% endfor %}
-		{% for page in site.pages %}
-		    {% if page.layout != "home" and page.nav-menu == true %}
-		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
+		{% for post in site.posts %}
+		    {% if post.layout != "home" and post.nav-menu == true %}
+		        <li><a href="{{ page.url | absolute_url }}">{{ post.title }}</a></li>
 		    {% endif %}
 		{% endfor %}
 	</ul>
-	<ul class="actions vertical">
-		<li><a href="#" class="button special fit">Get Started</a></li>
-		<li><a href="#" class="button fit">Log In</a></li>
-	</ul>
+	<!-- <ul class="actions vertical"> -->
+		<!-- <li><a href="#" class="button special fit">Get Started</a></li> -->
+		<!-- <li><a href="#" class="button fit">Log In</a></li> -->
+	<!-- </ul> -->
 </nav>

@@ -14,6 +14,7 @@ responsebar: true
 sondage: https://goo.gl/forms/AszVXISNBdjIPQH62
 formulaire: https://goo.gl/forms/AszVXISNBdjIPQH62
 image: assets/images/Image1618CôtePapineauLeverdujour-compressor.jpg
+nav-menu: true
 ---
 
 ![test image]({{ site.url | absolute_path}}/assets/images/pic03.jpg)
