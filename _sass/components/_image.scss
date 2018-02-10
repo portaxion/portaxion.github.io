@@ -53,10 +53,16 @@ img {
 		&.main {
 			display: block;
 			margin: (_size(element-margin) * 1.25) 0;
+      max-height: 30em;
 			width: 100%;
 
 			img {
-				width: 100%;
+        max-height: 100em;
+        // display: block;
+        // margin-left: auto;
+        // margin-right: auto;
+        // width: 40%;
+				// width: 100%;
 			}
 
 			@include breakpoint(small) {

@@ -12,7 +12,8 @@ responsebar: true
 sondage: https://goo.gl/forms/AszVXISNBdjIPQH62
 formulaire: https://goo.gl/forms/AszVXISNBdjIPQH62
 image: assets/images/1618blueprint-compressor.jpg
-calendar: calendars/tile2.html
+nav-menu: true
+<!-- calendar: calendars/tile2.html -->
 ---
 
 **Appel de partenariat en construction écologique**
