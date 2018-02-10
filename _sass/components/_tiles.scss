@@ -35,6 +35,12 @@
 			overflow: hidden;
 			position: relative;
 			width: 30%;
+			
+			.content {
+				margin-left: auto;
+	    	margin-right: auto;
+				text-align: center;
+			}
 
 			.image {
 				display: none;
