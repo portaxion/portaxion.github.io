@@ -10,8 +10,8 @@ link2: communauté.html
 bullet3: Bourses d'étude
 link3: communauté.html
 responsebar: true
-sondage: https://goo.gl/forms/AszVXISNBdjIPQH62
-formulaire: https://goo.gl/forms/AszVXISNBdjIPQH62
+<!-- sondage: https://goo.gl/forms/AszVXISNBdjIPQH62 -->
+<!-- formulaire: https://goo.gl/forms/AszVXISNBdjIPQH62 -->
 image: assets/images/ImageCommunautéPink-compressor.jpg
 nav-menu: true
 ---

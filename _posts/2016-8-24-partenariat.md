@@ -9,8 +9,8 @@ bullet2: Certification L.E.E.D.
 bullet3: Concours de design
 bullet4: Projet à l'échelle humaine
 responsebar: true
-sondage: https://goo.gl/forms/AszVXISNBdjIPQH62
-formulaire: https://goo.gl/forms/AszVXISNBdjIPQH62
+<!-- sondage: https://goo.gl/forms/AszVXISNBdjIPQH62 -->
+<!-- formulaire: https://goo.gl/forms/AszVXISNBdjIPQH62 -->
 image: assets/images/1618blueprint-compressor.jpg
 nav-menu: true
 <!-- calendar: calendars/tile2.html -->

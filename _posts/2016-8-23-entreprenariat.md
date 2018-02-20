@@ -11,8 +11,8 @@ link2: entrepreneuriat.html
 bullet3: Artisanat pour aînés(es)
 link3: entrepreneuriat.html
 responsebar: true
-sondage: https://goo.gl/forms/AszVXISNBdjIPQH62
-formulaire: https://goo.gl/forms/AszVXISNBdjIPQH62
+<!-- sondage: https://goo.gl/forms/AszVXISNBdjIPQH62 -->
+<!-- formulaire: https://goo.gl/forms/AszVXISNBdjIPQH62 -->
 image: assets/images/Image1618CôtePapineauLeverdujour-compressor.jpg
 nav-menu: true
 ---
