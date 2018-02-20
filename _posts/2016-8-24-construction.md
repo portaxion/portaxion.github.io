@@ -11,7 +11,7 @@ bullet4: Projet à l'échelle humaine
 responsebar: true
 <!-- sondage: https://goo.gl/forms/AszVXISNBdjIPQH62 -->
 <!-- formulaire: https://goo.gl/forms/AszVXISNBdjIPQH62 -->
-image: assets/images/1618blueprint-compressor.jpg
+image: assets/images/construction1.jpg
 nav-menu: true
 <!-- calendar: calendars/tile2.html -->
 ---

@@ -12,7 +12,7 @@ link3: communauté.html
 responsebar: true
 <!-- sondage: https://goo.gl/forms/AszVXISNBdjIPQH62 -->
 <!-- formulaire: https://goo.gl/forms/AszVXISNBdjIPQH62 -->
-image: assets/images/ImageCommunautéPink-compressor.jpg
+image: assets/images/communauté1.jpg
 nav-menu: true
 ---
 
