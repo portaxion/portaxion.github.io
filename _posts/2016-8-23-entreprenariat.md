@@ -13,7 +13,7 @@ link3: entrepreneuriat.html
 responsebar: true
 <!-- sondage: https://goo.gl/forms/AszVXISNBdjIPQH62 -->
 <!-- formulaire: https://goo.gl/forms/AszVXISNBdjIPQH62 -->
-image: assets/images/ENTREPRENARIAT1.jpg
+image: assets/images/entreprenariat1.jpg
 nav-menu: true
 ---
 
