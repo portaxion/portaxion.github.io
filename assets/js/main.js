@@ -97,6 +97,7 @@
 			$wrapper = $('#wrapper'),
 			$header = $('#header'),
 			$banner = $('#banner');
+			$bannerlanding = $('#bannerlanding');
 
 		// Disable animations/transitions until the page has loaded.
 			$body.addClass('is-loading');
@@ -223,9 +224,52 @@
 				});
 
 			}
+			if ($bannerlanding.length > 0
+			&&	$header.hasClass('alt')) {
+
+				$window.on('resize', function() {
+					$window.trigger('scroll');
+				});
+
+				$window.on('load', function() {
+
+					$bannerlanding.scrollex({
+						bottom:		$header.height() + 10,
+						terminate:	function() { $header.removeClass('alt'); },
+						enter:		function() { $header.addClass('alt'); },
+						leave:		function() { $header.removeClass('alt'); $header.addClass('reveal'); }
+					});
+
+					window.setTimeout(function() {
+						$window.triggerHandler('scroll');
+					}, 100);
+
+				});
+
+			}
 
 		// Banner.
 			$banner.each(function() {
+
+				var $this = $(this),
+					$image = $this.find('.image'), $img = $image.find('img');
+
+				// Parallax.
+					$this._parallax(0.275);
+
+				// Image.
+					if ($image.length > 0) {
+
+						// Set image.
+							$this.css('background-image', 'url(' + $img.attr('src') + ')');
+
+						// Hide original.
+							$image.hide();
+
+					}
+
+			});
+			$bannerlanding.each(function() {
 
 				var $this = $(this),
 					$image = $this.find('.image'), $img = $image.find('img');
