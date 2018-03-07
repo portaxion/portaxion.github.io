@@ -24,9 +24,9 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<!-- <a href="generic.html" class="image"> -->
+		<a class="image">
 			<img src="assets/images/B-MDD.jpg" alt="" data-position="center center" />
-		<!-- </a> -->
+		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -40,9 +40,9 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<!-- <a href="generic.html" class="image"> -->
+		<a class="image">
 			<img src="assets/images/C-MDD.jpg" alt="" data-position="top center" />
-		<!-- </a> -->
+		</a>
 		<div class="content">
 			<div class="inner">
 <!-- 				<header class="major">
@@ -56,9 +56,9 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<!-- <a href="generic.html" class="image"> -->
+		<a class="image">
 			<img src="assets/images/D-MDD.jpg" alt="" data-position="25% 25%" />
-		<!-- </a> -->
+		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -72,9 +72,9 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<!-- <a href="generic.html" class="image"> -->
+		<a class="image">
 			<img src="assets/images/E-MDD.jpg" alt="" data-position="top center" />
-		<!-- </a> -->
+		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -89,9 +89,9 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<!-- <a href="generic.html" class="image"> -->
+		<a class="image">
 			<img src="assets/images/F-MDD.jpg" alt="" data-position="25% 25%" />
-		<!-- </a> -->
+		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -106,9 +106,9 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<!-- <a href="generic.html" class="image"> -->
+		<a class="image">
 			<img src="assets/images/G-MDD.jpg" alt="" data-position="top center" />
-		<!-- </a> -->
+		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -123,9 +123,9 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<!-- <a href="generic.html" class="image"> -->
+		<a class="image">
 			<img src="assets/images/H-MDD.jpg" alt="" data-position="25% 25%" />
-		<!-- </a> -->
+		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -139,9 +139,9 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<!-- <a href="generic.html" class="image"> -->
+		<a class="image">
 			<img src="assets/images/I-MDD.jpg" alt="" data-position="top center" />
-		<!-- </a> -->
+		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -155,9 +155,9 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<!-- <a href="generic.html" class="image"> -->
-			<img src="assets/images/J-MDD.jpg" alt="" data-position="25% 25%" />
-		<!-- </a> -->
+		<a class="image">
+			<img class="image" src="assets/images/J-MDD.jpg" alt="" data-position="25% 25%" />
+		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -171,9 +171,9 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<!-- <a href="generic.html" class="image"> -->
+		<a class="image">
 			<img src="assets/images/K-MDD.jpg" alt="" data-position="top center" />
-		<!-- </a> -->
+		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -187,9 +187,9 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<!-- <a href="generic.html" class="image"> -->
+		<a class="image">
 			<img src="assets/images/L-MDD.jpg" alt="" data-position="25% 25%" />
-		<!-- </a> -->
+		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -203,9 +203,9 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<!-- <a href="generic.html" class="image"> -->
+		<a class="image">
 			<img src="assets/images/M-MDD.jpg" alt="" data-position="top center" />
-		<!-- </a> -->
+		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
