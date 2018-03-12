@@ -15,8 +15,12 @@ responsebar: true
 image: assets/images/communaute1.jpg
 nav-menu: true
 ---
+<ul class="actions">
+  <li><a href="generic.html" class="button">Sondage</a></li>
+  <li><a href="generic.html" class="button">Formulaire</a></li>
+</ul>
 
-*Portaxion *a la mission d’encourager le développement des compétences par projets novateurs de science, nature et culture. *Portaxion* ouvre la porte aux personnes qui veulent appliquer leurs connaissances actuelles ou en développer de nouvelles. Contactez-nous pour discuter de la formule qui convient à vos circonstances, stage ou bourse.  (< those are links within this same page)
+Portaxion a la mission d’encourager le développement des compétences par projets novateurs de science, nature et culture. Portaxion ouvre la porte aux personnes qui veulent appliquer leurs connaissances actuelles ou en développer de nouvelles. Contactez-nous pour discuter de la formule qui convient à vos circonstances, stage ou bourse.  (< those are links within this same page)
 
 
 
