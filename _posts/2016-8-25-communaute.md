@@ -16,11 +16,12 @@ image: assets/images/communaute1.jpg
 nav-menu: true
 ---
 <ul class="actions">
-  <li><a href="generic.html" class="button">Sondage</a></li>
-  <li><a href="generic.html" class="button">Formulaire</a></li>
+  <li><a href="https://goo.gl/forms/MVnTx9ioVAKuWDWq1" class="button">Sondage</a></li>
+  <li><a href="https://goo.gl/forms/qer3qwekXpi79siu2l" class="button">Stage</a></li>
+  <li><a href="https://goo.gl/forms/kqJmy3kHKEE7Olkw1" class="button">Bourse</a></li>
 </ul>
 
-Portaxion a la mission d’encourager le développement des compétences par projets novateurs de science, nature et culture. Portaxion ouvre la porte aux personnes qui veulent appliquer leurs connaissances actuelles ou en développer de nouvelles. Contactez-nous pour discuter de la formule qui convient à vos circonstances, stage ou bourse.  (< those are links within this same page)
+Portaxion a la mission d’encourager le développement des compétences par projets novateurs de science, nature et culture. Portaxion ouvre la porte aux personnes qui veulent appliquer leurs connaissances actuelles ou en développer de nouvelles. Contactez-nous pour discuter de la formule qui convient à vos circonstances, stage ou bourse.
 
 
 
@@ -28,9 +29,7 @@ STAGES EN ENTREPRISE
 
 Par la diversité de ses projets, *Portaxion* offre plusieurs possibilités de participation rémunérée et non-rémunérée. Dites-nous quels sont vos **objectifs** (par exemple, acquérir une expérience en production, en rédaction, en gestion de projet, programmation, design graphique, communications, etc.) et vos **disponibilités** (heures, semaines, mois).
 
-Définissons ensemble des conditions gagnantes!
-
-Formulaire (< this is a link to Google doc  "Formulaire – La communauté en action – Stage")
+Définissons ensemble des conditions gagnantes! <a href="https://goo.gl/forms/qer3qwekXpi79siu2l" class="button">Formulaire</a>
 
 Dites-nous ce que vous recherchez comme expérience de travail. Par exemple :
 
@@ -50,7 +49,7 @@ Quel que soit votre âge, nous avons besoin de ressources variées pour le déve
 
 BOURSE
 
-Portaxion vous invite à soumettre une demande :  Formulaire (< this is a link to Google doc  "Formulaire – La communauté en action – Bourse")
+Portaxion vous invite à soumettre une demande :  <a href="https://goo.gl/forms/kqJmy3kHKEE7Olkw1" class="button">Formulaire</a>
 
 
 
