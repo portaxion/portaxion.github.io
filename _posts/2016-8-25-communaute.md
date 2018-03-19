@@ -17,7 +17,7 @@ nav-menu: true
 ---
 <ul class="actions">
   <li><a href="https://goo.gl/forms/MVnTx9ioVAKuWDWq1" class="button">Sondage</a></li>
-  <li><a href="https://goo.gl/forms/qer3qwekXpi79siu2l" class="button">Stage</a></li>
+  <li><a href="https://goo.gl/forms/dNdprbfLmXk8iZgu2" class="button">Stage</a></li>
   <li><a href="https://goo.gl/forms/kqJmy3kHKEE7Olkw1" class="button">Bourse</a></li>
 </ul>
 
