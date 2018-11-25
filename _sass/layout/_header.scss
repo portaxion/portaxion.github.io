@@ -35,6 +35,12 @@
 			height: inherit;
 			line-height: inherit;
 			padding: 0 1.5em;
+			position: absolute;
+			padding-left: 35px;
+			padding-right: 12px;
+			filter: brightness(0) invert(1);
+			vertical-align: middle;
+			top: 4px;
 
 			strong {
 				@include vendor('transition', (

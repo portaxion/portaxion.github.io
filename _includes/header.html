@@ -3,7 +3,12 @@
 
 <!-- Header -->
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
-	<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
+	<!-- <a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a> -->
+	<a href="{{ "" | absolute_url }}/" class="logo">
+		<span><img style="vertical-align: -webkit-baseline-middle" src="assets/images/Portaxion_Final_Marine.png" alt="" /></span>
+		<!-- <span>{{ site.subtitle }}</span> -->
+	</a>
+	
 	<nav>
 		<a href="#menu">Menu</a>
 	</nav>
