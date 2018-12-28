@@ -5,7 +5,12 @@
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
 	<!-- <a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a> -->
 	<a href="{{ "" | absolute_url }}/" class="logo">
-		<span><img style="vertical-align: -webkit-baseline-middle" src="/assets/images/Portaxion-Final-Marine.png" alt="portaxion banner" /></span>
+		<picture>
+			<source style="vertical-align: -webkit-baseline-middle" media="(min-width: 480px)" srcset="/assets/images/Portaxion-Final-Marine.png">
+			<img style="vertical-align: -webkit-baseline-middle" src="/assets/images/Portaxion-Final-Marine-xs.png"alt="portaxion">
+		</picture>
+		<!-- <span><img style="vertical-align: -webkit-baseline-middle" src="/assets/images/Portaxion-Final-Marine.png" alt="portaxion banner" /></span>
+		<span><img style="vertical-align: -webkit-baseline-middle" src= alt="portaxion banner" /></span> -->
 		<!-- <span>{{ site.subtitle }}</span> -->
 	</a>
 	
