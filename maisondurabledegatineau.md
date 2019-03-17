@@ -64,7 +64,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Objectif 2 : MIXITÉ</h3>
 				</header>
-				<p>Le projet vise à réunir 3 fonctions : résidentielle (3) commerciale (1), et bureau (2). Une mixité est déjà présente à proximité immédiate avec une clinique médicale en face, de même qu'un stationnement municipal.  Le projet s'insère également dans une trame en profonde transformation. L'axe culturel Montcalm est à 50m à l'ouest et connait d'importants développement; le nouveau pôle Morin pour <a href="http://www.gatineau.ca/portail/default.aspx?p=la_ville/salle_medias/communiques/communique_2015&id=1465240810"target="_blank">ateliers d'artistes</a> commence à 50m au sud.</p>
+				<p>Le projet vise à réunir 3 fonctions : résidentielle (3) commerciale (1), et bureau (2). Une mixité est déjà présente à proximité immédiate avec une clinique médicale en face, de même qu'un stationnement municipal.  Le projet s'insère également dans une trame en profonde transformation. L'axe culturel Montcalm est à 50m à l'ouest et connait d'importants développement; le nouveau pôle Morin pour <a href="http://www.gatineau.ca/portail/default.aspx?p=la_ville/salle_medias/communiques/communique_2015&id=1465240810">ateliers d'artistes</a> commence à 50m au sud.</p>
 <!-- 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul> -->
